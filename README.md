@@ -11,4 +11,4 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 It is the perfect project for learning Data Analytics. In this projec the reader will come to know 1: Data Exploration 2: Data Cleaning 3: Feature Engineering 4: Creating Models
 
 Following machine learning algorithms are used
-1: Ridge Regression Model 3: Decision Tree Model 4: Random Forest Model
+1: Ridge Regression Model 2: Lasso Regression Model3: Decision Tree Model 4: Random Forest Model
